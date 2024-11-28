@@ -9,6 +9,11 @@ public class Main {
 		Exercicio1 exe1 = new Exercicio1();
 		exe1.execucao();
 		
+		//Exercício 2
+		System.out.println("--- Exercício 2 - Quadrantes ---");
+		Exercicio2 exe2 = new Exercicio2();
+		exe2.execucao();
+		
 		System.exit(0);
 		
 	}
