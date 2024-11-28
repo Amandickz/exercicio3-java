@@ -14,6 +14,11 @@ public class Main {
 		Exercicio2 exe2 = new Exercicio2();
 		exe2.execucao();
 		
+		//Exercício 3
+		System.out.println("--- Exercício 3 - Posto de Combustível ---");
+		Exercicio3 exe3 = new Exercicio3();
+		exe3.execucao();
+		
 		System.exit(0);
 		
 	}
